@@ -97,5 +97,5 @@ python-mini-toolkit/
 **Siwaphiwe Siboto**  
 Life Choices — Python Completion Showcase
 
-GitHub: [your-github-link]  
+GitHub: https://github.com/Swail3r  
 LinkedIn: https://www.linkedin.com/in/siwaphiwe-siboto-a0839b272
